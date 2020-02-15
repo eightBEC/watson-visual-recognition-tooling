@@ -1,0 +1,7 @@
+001.jpg	BMW 3er Cabrio	Licensing: Attribution: Automodeller at the German language Wikipedia	https://commons.wikimedia.org/wiki/File:BMW_3er_Cabrio.JPG
+002.jpg	BMW 5er Touring	Licensing: I, the copyright holder of this work, release this work into the public domain. This applies worldwide.	https://commons.wikimedia.org/wiki/File:BMW_5er_Touring_rear_grey.jpg 
+003.jpg	Ein BMW-7-er-Hybrid-Erlkönig in München	Licensing: This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication https://commons.wikimedia.org/wiki/File:BMW-7-Hybrid-Erlk%C3%B6nig,_1.jpeg
+004.jpg	Audi A3	Licensing: I, the copyright holder of this work, release this work into the public domain. This applies worldwide.	https://commons.wikimedia.org/wiki/File:Audi_A3.jpg
+005.jpg	Audi A3	Licensing: I, the copyright holder of this work, release this work into the public domain. This applies worldwide.	https://commons.wikimedia.org/wiki/File:Audi_A4_B6_Limo.jpg
+006.jpg	Mercedes S-Klasse	Licensing: I, the copyright holder of this work, release this work into the public domain. This applies worldwide. https://commons.wikimedia.org/wiki/File:Mercedes_S-Klasse_(W221)_20090611_front.JPG
+007.jpg	Mercedes E-Klasse	Licensing: 	I, the copyright holder of this work, release this work into the public domain. This applies worldwide.	https://commons.wikimedia.org/wiki/File:Mercedes_E-Klasse_20090301_front.jpg
