@@ -137,9 +137,12 @@ image_dump/*.*
 !image_dump/sclass_*.jpg
 
 corpus/**/*.*
-!corpus/audi/*
-!corpus/mercedes/*
-!corpus/mercedes_blindtest/*
+!corpus/audi/afour/*.jpg
+!corpus/audi/athree/*.jpg
+!corpus/mercedes/negative_examples/*.jpg
+!corpus/mercedes/sclass/*.jpg
+!corpus/mercedes_blindtest/negative_examples/*.jpg
+!corpus/mercedes_blindtest/sclass/*.jpg
 !corpus/s_class/not_s_class/*.jpg
 !corpus/s_class/s_class/*.jpg
 
